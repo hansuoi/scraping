@@ -1,7 +1,6 @@
 # scraping
 - conda仮想環境: scraping
 - ファイルの説明
-    - .ipynb_checkpoints: jupyter-notebookの副産物
     - README.md: これ
     - practice.ipynb: Qiitaかなんかのコードそのまま。日経の記事タイトルを抜くヤツ
     - pubg_data.csv: pubgのwikiから武器の情報を抜いたヤツ
